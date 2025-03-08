@@ -67,7 +67,7 @@ This prototype showcases key user flows, including onboarding, service selection
 ---
 
 ## How to Use the Prototype  
-1. **Open the Figma Prototype**: [[Insert Figma Prototype Link Here](https://www.figma.com/proto/rpxUZJzM0vBtjcbSCr9OhK/CPIT-280-Project?node-id=253-564&t=ugazFNViGFAmajb8-1)]  
+1. **Open the Figma Prototype**: [[Prototype Link](https://www.figma.com/proto/rpxUZJzM0vBtjcbSCr9OhK/CPIT-280-Project?node-id=253-564&t=ugazFNViGFAmajb8-1)]  
 2. **Interact with**:  
    - Clickable buttons (*View Menu, Check Rate, Login*).  
    - Navigation bars (*Home, Cart, History*).  
